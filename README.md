@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 
 
-![Banner](banner.png)
+![Banner](banner-1.png)
 
 
 ---
