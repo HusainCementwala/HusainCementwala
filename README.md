@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile! 
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
+![Banner](https://github.com/user-attachments/assets/0e22732a-81f1-442e-b098-2eaaf2453811)
+
 
 ---
 
