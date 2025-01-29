@@ -20,7 +20,7 @@ Hello! I'm [Your Name], a passionate **developer**, **designer**, and **problem 
 - 💻 **Current Focus**: Building a **color mixer app** using HTML, CSS, and JavaScript.
 - 📚 **Skills**: JavaScript, Python, HTML/CSS, Cryptography, Network Security.
 - 🎨 **Hobbies**: Graphic design, parody video creation, and writing research papers.
-- 🎓 **UPSC Aspirant** with Sociology as my optional subject.
+
 
 ---
 
